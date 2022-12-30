@@ -2,7 +2,8 @@
 
 ### Web mínima que usa Reveal.JS y Markdown para sus slides...
 
-by **Carlos Lecina**
+### Author
+[☕ Carlos Lecina](https://ko-fi.com/carloslecina)
 
 ------
 
